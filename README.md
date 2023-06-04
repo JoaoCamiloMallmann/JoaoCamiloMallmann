@@ -6,14 +6,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
-<h4 align="left" >Front</h4>
+<h4 align="left">Front</h4>
 <p align="left" style="display: flex;">
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" />
   </a>
 
@@ -51,7 +51,7 @@
 
 <h4 align="left">Back</h4>
 
-<p align="left">
+<p align="left" style="display: flex;">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
       height="40" />
@@ -67,7 +67,7 @@
 </p>
 <h4 align="left">Others</h4>
 
-<p align="left">
+<p align="left" style="display: flex;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
@@ -89,7 +89,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" />
   </a>
-</p>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocamilomallmann&show_icons=true&locale=en&layout=compact" alt="joaocamilomallmann" /></p>
 <!--
