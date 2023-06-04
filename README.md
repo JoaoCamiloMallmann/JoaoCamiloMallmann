@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<h4 align="left">Front</h4>
+<h4 align="left" style="display: flex;">Front</h4>
 <p align="left" style="display: flex;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
