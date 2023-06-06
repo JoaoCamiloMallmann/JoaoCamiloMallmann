@@ -14,7 +14,9 @@
 
 <h4 align="left" style="display: flex;">Front</h4>
 <p align="left" style="display: flex; flex-direction: row;">
-
+  
+<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="bootstrap" width="40" height="40" />
+  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
