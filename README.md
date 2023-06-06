@@ -33,7 +33,7 @@
 
 <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />
   
- <img src=" https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40" />
 
 
 </p>
