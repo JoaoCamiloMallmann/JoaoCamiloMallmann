@@ -1,35 +1,48 @@
-<!-- Header com banner animado -->
+<!-- Header com banner anima- 💻 Especialista em **desenvolvimento Front-End**
+- 🎨 Focado | 🔍 **Mente Curiosa** | ⚡ **Produtividade** | 💡 **Soluções Criativas** |
+|:---:|:---:|:---:|
+| Sempre buscando melhorias | Entrega com qualidade | Pensamento fora da caixa |**experiência do usuário (UX/UI)**
+- 🚀 Domínio em **Vue.js, Nuxt.js e TypeScript**
+- 🌐 Experiência com **WordPress e Bootstrap**
+- 💡 **Mente curiosa** e sempre em busca de **inovação**
+- 🤝 **Comunicativo** e colaborativo em equipe
+- ⚡ Compromisso com **produtividade** e **soluções criativas**
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Olá%20👋,%20sou%20J.C&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20|%20Apaixonado%20por%20Tecnologia&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Olá%20👋,%20sou%20J.C&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20|%20Vue.js%20|%20TypeScript%20|%20UX/UI&descAlignY=55&descAlign=50"/>
 </div>
 
 <!-- Badge typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Sempre+aprendendo+novas+tecnologias;Transformando+ideias+em+código"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Front-End;Vue.js+%7C+Nuxt.js+%7C+TypeScript;Focado+na+Experiência+do+Usuário;📱+Vamos+nos+conectar+no+LinkedIn!"/>
 </div>
 
-<!-- Stats em cards -->
+<!-- Call to Action para LinkedIn -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocamilomallmann&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocamilomallmann&layout=compact&langs_count=8&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
-</div>
-
-<!-- GitHub streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocamilomallmann&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea"/>
+  <h2>🤝 Vamos nos conectar?</h2>
+  <p><strong>Encontre-me no LinkedIn para conversarmos sobre oportunidades!</strong></p>
+  
+  <a href="https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/" target="_blank">
+    <img src="https://img.shields.io/badge/CONECTAR%20NO%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5"/>
+  </a>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da programação para transformar ideias em soluções reais que impactam positivamente a vida das pessoas.
+Sou um desenvolvedor **Front-End** apaixonado por tecnologia, com domínio em **HTML, CSS, Bootstrap, WordPress, JavaScript, Vue, Nuxt e TypeScript**. 
 
-- 🔭 Atualmente trabalhando em projetos **Full-Stack**
-- 🌱 Aprendendo constantemente **novas tecnologias**
-- 👯 Procurando colaborar em **projetos open source**
-- 💬 Pergunte-me sobre **desenvolvimento web, Java, PHP**
-- ⚡ Curiosidade: Adoro criar soluções criativas para problemas complexos
+Sou **comunicativo e curioso**, sempre buscando entender os desafios do projeto de forma abrangente e propondo **soluções criativas**, pensando sempre na **melhor experiência para o usuário**.
+
+- 🕶️ Especialista em **desenvolvimento Front-End**
+- 🎨 Focado na **experiência do usuário (UX/UI)**
+- 🚀 Domínio em **Vue.js, Nuxt.js e TypeScript**
+- � Experiência com **WordPress e Bootstrap**
+- 💡 **Mente curiosa** e sempre em busca de **inovação**
+- 🤝 **Comunicativo** e colaborativo em equipe
+- ⚡ Compromisso com **produtividade** e **soluções criativas**
+
+Se você está procurando um desenvolvedor que possa agregar **habilidades técnicas**, uma **mente curiosa** e uma **forte comunicação**, juntamente com um compromisso com a **produtividade e inovação**, ficarei muito feliz em conversar sobre novas oportunidades!
 
 ---
 
@@ -39,10 +52,10 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ### 🎨 Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap,sass,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,bootstrap,wordpress&theme=dark" />
 </p>
 
-### ⚙️ Back-end
+### ⚙️ Back-end & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=java,php,mysql&theme=dark" />
 </p>
@@ -56,63 +69,32 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocamilomallmann&bg_color=0d1117&color=667eea&line=667eea&point=667eea&area=true&hide_border=true"/>
-</div>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaocamilomallmann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
+## 🌐 Entre em Contato
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaocamilomallmann)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+  <h3>💼 Procurando um desenvolvedor Front-End?</h3>
+  <p>Vamos conversar sobre como posso contribuir com seu projeto!</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcamilomallmann@hotmail.com)
 
 </div>
 
 ---
 
-## 🎯 Projetos em Destaque
+## 💡 Por que trabalhar comigo?
 
 <div align="center">
-  <a href="https://github.com/joaocamilomallmann/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocamilomallmann&repo=projeto1&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/joaocamilomallmann/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocamilomallmann&repo=projeto2&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
-  </a>
-</div>
 
----
+| 🎯 **Foco no Usuário** | 🚀 **Tecnologias Modernas** | 💬 **Comunicação Clara** |
+|:---:|:---:|:---:|
+| Experiência pensada para o usuário final | Vue.js, Nuxt.js, TypeScript | Colaboração efetiva em equipe |
 
-## 📈 Contribuições
+| ⁉️ **Mente Curiosa** | ⚡ **Produtividade** | 💡 **Soluções Criativas** |
+|:---:|:---:|:---:|
+| Sempre buscando melhorias | Entrega com qualidade | Pensamento fora da caixa |
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=joaocamilomallmann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
-
----
-
-## 💭 Quote do Dia
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/joaocamilomallmann/joaocamilomallmann/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <!-- Footer -->
@@ -122,7 +104,9 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 <div align="center">
   
-  **Obrigado pela visita! 😄**
+  **🚀 Pronto para começarmos um projeto juntos?**
+  
+  [![LinkedIn](https://img.shields.io/badge/VAMOS%20CONVERSAR%20NO%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/)
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjoaocamilomallmann&label=Visitantes&countColor=%23263759&style=flat)
   
