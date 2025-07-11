@@ -1,104 +1,129 @@
-<h1 align="center">Olá 👋, sou J.C</h1>
+<!-- Header com banner animado -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Olá%20👋,%20sou%20J.C&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20|%20Apaixonado%20por%20Tecnologia&descAlignY=55&descAlign=50"/>
+</div>
+
+<!-- Badge typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Sempre+aprendendo+novas+tecnologias;Transformando+ideias+em+código"/>
+</div>
+
+<!-- Stats em cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocamilomallmann&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocamilomallmann&layout=compact&langs_count=8&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
+</div>
+
+<!-- GitHub streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocamilomallmann&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea"/>
+</div>
 
 ---
 
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para crescer. Acredito no poder da programação para transformar ideias em soluções reais que impactam positivamente a vida das pessoas.
+
+- 🔭 Atualmente trabalhando em projetos **Full-Stack**
+- 🌱 Aprendendo constantemente **novas tecnologias**
+- 👯 Procurando colaborar em **projetos open source**
+- 💬 Pergunte-me sobre **desenvolvimento web, Java, PHP**
+- ⚡ Curiosidade: Adoro criar soluções criativas para problemas complexos
 
 ---
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+## 🛠️ Tech Stack
 
-<h4 align="center">Front-end</h4>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-      alt="Materialize" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40"
-      height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="Vue.js" width="40" height="40" />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" />
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="40" height="40" />
-  </a>
+<div align="center">
+
+### 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap,sass,wordpress&theme=dark" />
 </p>
 
-<h4 align="center">Back-end</h4>
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"
-      height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"
-      height="40" />
-  </a>
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,mysql&theme=dark" />
 </p>
 
-<h4 align="center">Outras Ferramentas</h4>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
-      height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop"
-      width="40" height="40" />
-  </a>
+### 🧰 Ferramentas & Outras
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,figma,git,linux,photoshop,vscode&theme=dark" />
 </p>
+
+</div>
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocamilomallmann&show_icons=true&locale=en&layout=compact&theme=flat"
-    alt="Estatísticas de Linguagens" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocamilomallmann&bg_color=0d1117&color=667eea&line=667eea&point=667eea&area=true&hide_border=true"/>
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaocamilomallmann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaocamilomallmann)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/joaocamilomallmann/projeto1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocamilomallmann&repo=projeto1&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/joaocamilomallmann/projeto2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocamilomallmann&repo=projeto2&theme=gradient&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
+  </a>
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=joaocamilomallmann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</div>
+
+---
+
+## 💭 Quote do Dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/joaocamilomallmann/joaocamilomallmann/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer"/>
+</div>
+
+<div align="center">
+  
+  **Obrigado pela visita! 😄**
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjoaocamilomallmann&label=Visitantes&countColor=%23263759&style=flat)
+  
+</div>
